@@ -3,16 +3,6 @@
 **AI Engineer (Entry-level)** · NLP/RAG · Model Deployment · Data Analytics
 Love building end-to-end ML systems: from **data → model → API → dashboard**.
 
-<div align="left">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue)](#-projects)
-[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/your-handle)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-orange?logo=huggingface)](https://huggingface.co/your-handle)
-[![Visitors](https://komarev.com/ghpvc/?username=ThanhDT127\&label=Profile%20views\&color=0e75b6\&style=flat)](https://github.com/ThanhDT127)
-
-</div>
-
 ---
 
 ## 📜 Table of Contents
@@ -27,16 +17,15 @@ Love building end-to-end ML systems: from **data → model → API → dashboard
 
 ## 🧭 About Me
 
-* 🎓 Graduate (2025) with a focus on **NLP** and **applied ML** or **AI**
+* 🎓 Graduate (2025) with a focus on **NLP** and **applied ML**
 * 🔭 Building **RAG Chatbots** & **ML inference APIs**
 * 📊 Interested in **E-commerce analytics** & NLP applications
 * 🧪 Enjoy creating clean, reproducible ML pipelines
-* 🌱 Learning: **Advanced SQL**, **MLOps basics**
+* 🌱 Learning: **Advanced SQL**, **Power BI**, **MLOps basics**
 
 ---
 
 ## 🧰 Tech Stack
-
 
 **Languages:** Python, SQL, C/C++, Java
 **ML/DL:** PyTorch, TensorFlow, scikit-learn, HuggingFace Transformers
@@ -84,19 +73,10 @@ Love building end-to-end ML systems: from **data → model → API → dashboard
 
 ## 📊 GitHub Metrics
 
-<div align="left">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ThanhDT127)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ThanhDT127\&show_icons=true\&include_all_commits=true\&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhDT127\&layout=compact)
-
-</div>
-
 ---
 
 ## 🤝 Contact
 
 * 📧 Email: [anthanh8573@gmail.com](mailto:anthanh8573@gmail.com)
-* 💼 LinkedIn: [https://www.linkedin.com/in/thanh-an-3b59bb28b/)
+* 💼 LinkedIn: [https://www.linkedin.com/in/thanh-an-3b59bb28b/](https://www.linkedin.com/in/thanh-an-3b59bb28b/)
+
