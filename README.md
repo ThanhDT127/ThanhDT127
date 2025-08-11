@@ -27,11 +27,11 @@ Love building end-to-end ML systems: from **data → model → API → dashboard
 
 ## 🧰 Tech Stack
 
-**Languages:** Python, SQL, C/C++, Java
+**Languages:** Python, SQL, Bash
 **ML/DL:** PyTorch, TensorFlow, scikit-learn, HuggingFace Transformers
-**NLP:** PhoBERT, LLaMA, RAG, LangChain
-**Data:** Pandas, NumPy, MySQL, Excel
-**Deploy:** FastAPI, Docker, Hugging Face Spaces
+**NLP:** PhoBERT, LLaMA, RAG, LangChain, Milvus
+**Data:** Pandas, NumPy, Power BI, Excel
+**Deploy:** FastAPI, Streamlit, Docker, Hugging Face Spaces
 **Tools:** Git/GitHub, Colab, VS Code
 
 ---
@@ -73,10 +73,14 @@ Love building end-to-end ML systems: from **data → model → API → dashboard
 
 ## 📊 GitHub Metrics
 
+![GitHub Streak](https://streak-stats.demolab.com?user=ThanhDT127)
+![Stats](https://github-readme-stats.vercel.app/api?username=ThanhDT127\&show_icons=true\&include_all_commits=true\&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhDT127\&layout=compact)
+
 ---
 
 ## 🤝 Contact
 
 * 📧 Email: [anthanh8573@gmail.com](mailto:anthanh8573@gmail.com)
-* 💼 LinkedIn: [https://www.linkedin.com/in/thanh-an-3b59bb28b/](https://www.linkedin.com/in/thanh-an-3b59bb28b/)
+* 💼 LinkedIn: [Thanh An](https://www.linkedin.com/in/thanh-an-3b59bb28b/)
 
