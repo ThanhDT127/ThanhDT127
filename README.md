@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **An Duc Thanh**
 
-**AI Engineer (Entry-level)** · NLP/RAG · Model Deployment · Data Analytics
+**AI Engineer (Entry-level)** · NLP/RAG · Model Deployment ·
 Love building end-to-end ML systems: from **data → model → API → dashboard**.
 
 ---
@@ -72,9 +72,6 @@ Love building end-to-end ML systems: from **data → model → API → dashboard
 ---
 
 ## 📊 GitHub Metrics
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ThanhDT127)
-![Stats](https://github-readme-stats.vercel.app/api?username=ThanhDT127\&show_icons=true\&include_all_commits=true\&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhDT127\&layout=compact)
 
 ---
