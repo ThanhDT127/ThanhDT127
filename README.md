@@ -80,4 +80,4 @@ Love building end-to-end ML systems: from **data → model → API → dashboard
 
 * 📧 Email: [anthanh8573@gmail.com](mailto:anthanh8573@gmail.com)
 * 💼 LinkedIn: [Thanh An](https://www.linkedin.com/in/thanh-an-3b59bb28b/)
-* 🤗 Hugging Face: [Your HuggingFace Profile](https://huggingface.co/your-handle)
+* 🤗 Hugging Face: [ThanhDT127](https://huggingface.co/your-handle)
