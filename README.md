@@ -1,10 +1,10 @@
-<a href="#readme"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=An%20Duc%20Thanh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20NLP%20and%20RAG%20%C2%B7%20Model%20Deployment&descAlignY=58&descSize=18" alt="Profile Header" /></a>
+<a href="#readme"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=An%20Duc%20Thanh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Automation%20Engineer%20%C2%B7%20NLP%20%26%20RAG%20%C2%B7%20Model%20Deployment&descAlignY=58&descSize=18" alt="Profile Header" /></a>
 
 <h1 align="center">Hi, I'm An Duc Thanh 👋</h1>
 
 <p align="center">
-  <strong>AI Engineer</strong> · NLP/RAG & Model Deployment · Vietnam <br>
-  Love building end-to-end ML & Automation systems: from <strong>data → model → API → dashboard</strong>.
+  <strong>AI & Automation Engineer</strong> · NLP/RAG & Model Deployment · Vietnam <br>
+  Building end-to-end ML & automation pipelines: from <strong>data → model → API → dashboard</strong>.
 </p>
 
 ---
@@ -33,13 +33,13 @@
 
 ## <a name="featured-projects"></a> 🌟 Featured Projects
 
-| Project | What it proves | Tech | Evidence |
+| Project | What it proves | Tech Stack | Evidence |
 |---|---|---|---|
-| [`DATN_Classification`](https://github.com/ThanhDT127/DATN_Classification) | End-to-end multi-task deep learning system (PhoBERT + BiLSTM) for aspect & sentiment classification. Crawled reviews (Tiki/Lazada) and labeled using Groq API (DeepSeek LLaMA). | `Python`, `PyTorch`, `PhoBERT`, `FastAPI` | F1-score > 90% / Deployed on HuggingFace Spaces / Crawlers |
-| [`dms-feedback-classification`](https://github.com/ThanhDT127/dms-feedback-classification) | Enterprise-grade ML/LLM classifier with SharePoint synchronization, Teams/Email alerting pipelines, and dynamic SPA dashboard. | `Python`, `FastAPI`, `Docker`, `Gemini API` | [93% PyTest Coverage](https://github.com/ThanhDT127/dms-feedback-classification/actions) / SPA Dashboard |
-| [`CRM-Classification-Pipeline`](https://github.com/ThanhDT127/CRM-Classification-Pipeline) | Large-scale data ingestion and cost-optimized classification (>27k rows) utilizing incremental delta checking (ActivityId tracking). | `Python`, `Gemini API`, `Graph API`, `pandas` | Incremental Delta Cache / Graph API / Premium Excel |
-| [`Oppen_Web_UI`](https://github.com/ThanhDT127/Oppen_Web_UI) | Multi-container system deployment, LLM routing proxy (20+ models via LiteLLM), self-hosted SearXNG search, and Nginx SSL/HTTPS security. | `Docker`, `LiteLLM`, `SearXNG`, `Nginx` | Custom Open WebUI Stack / SearXNG Integration |
-| [`Obesity-Level-Prediction-Using-Machine-Learning`](https://github.com/ThanhDT127/Obesity-Level-Prediction-Using-Machine-Learning) | Deeper understanding of ML mathematical algorithms via custom "from scratch" implementations of MLP, Naive Bayes, and SVM. | `Python`, `scikit-learn`, `PyTorch` | MLP & SVM custom scratch algorithms |
+| [`DATN_Classification`](https://github.com/ThanhDT127/DATN_Classification) | Multi-task PhoBERT + BiLSTM model training and deployment for Vietnamese review classification (sentiment + aspects). Crawled review data and labeled using Groq API (DeepSeek LLaMA). | `Python`, `PyTorch`, `PhoBERT`, `FastAPI` | F1-score > 90% / Deployed on HuggingFace Spaces |
+| [`dms-feedback-classification`](https://github.com/ThanhDT127/dms-feedback-classification) | Production hybrid ML & Gemini feedback classifier. Integrates with Microsoft Graph API (SharePoint), groups feedback into 21 categories, alerts via Teams/Email, and renders a Vanilla JS dashboard. | `Python`, `FastAPI`, `Docker`, `Gemini API` | 93% test coverage (pytest) / Live SharePoint sync |
+| [`CRM-Classification-Pipeline`](https://github.com/ThanhDT127/CRM-Classification-Pipeline) | Large-scale CRM data classification pipeline (>27k rows). Hybrid Classifier (Regex + Gemini 2.5 Flash) with Incremental Delta logic to save API costs. Outputs styled Premium Excel to SharePoint. | `Python`, `Gemini API`, `Graph API`, `pandas` | Incremental delta processing |
+| [`Oppen_Web_UI`](https://github.com/ThanhDT127/Oppen_Web_UI) | Deployment of an enterprise-grade AI platform. Routes 20+ models via LiteLLM proxy, embeds self-hosted SearXNG for web search, and integrates Docling OCR for RAG. | `Docker`, `LiteLLM`, `SearXNG`, `Nginx` | Supports 200+ employees |
+| [`Obesity-Level-Prediction-Using-Machine-Learning`](https://github.com/ThanhDT127/Obesity-Level-Prediction-Using-Machine-Learning) | Deeper understanding of ML theory. Compares custom "from scratch" implementations of MLP, Naive Bayes, and One-vs-One SVM against scikit-learn. | `Python`, `scikit-learn`, `PyTorch` | Scratch ML implementations comparison |
 
 ---
 
