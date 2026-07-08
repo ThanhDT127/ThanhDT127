@@ -1,4 +1,4 @@
-<a href="#readme"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=An%20Duc%20Thanh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20NLP%20%26%20RAG%20%7C%20Model%20Deployment&descAlignY=58&descSize=18" alt="Profile Header" /></a>
+<a href="#readme"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=An%20Duc%20Thanh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20NLP%20and%20RAG%20%C2%B7%20Model%20Deployment&descAlignY=58&descSize=18" alt="Profile Header" /></a>
 
 <h1 align="center">Hi, I'm An Duc Thanh 👋</h1>
 
@@ -46,8 +46,8 @@
 ## <a name="github-activity"></a> 📊 GitHub Activity
 
 <p align="center">
-  <a href="#github-activity"><img height="165" src="https://github-readme-stats.vercel.app/api?username=ThanhDT127&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" /></a>
-  <a href="#github-activity"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhDT127&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" /></a>
+  <a href="#github-activity"><img height="165" src="https://github-readme-stats.vercel.app/api?username=ThanhDT127&show_icons=true&theme=dark" alt="GitHub Stats" /></a>
+  <a href="#github-activity"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThanhDT127&layout=compact&theme=dark" alt="Top Languages" /></a>
 </p>
 
 > [!NOTE]
