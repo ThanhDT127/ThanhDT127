@@ -46,8 +46,8 @@
 ## <a name="github-activity"></a> 📊 GitHub Activity
 
 <p align="center">
-  <a href="#github-activity"><img height="165" src="https://github-readme-stats.vercel.app/api?username=ThanhDT127&show_icons=true&theme=dark" alt="GitHub Stats" /></a>
-  <a href="#github-activity"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThanhDT127&layout=compact&theme=dark" alt="Top Languages" /></a>
+  <a href="#github-activity"><img height="165" src="https://github-stats-extended.vercel.app/api?username=ThanhDT127&show_icons=true&theme=dark" alt="GitHub Stats" /></a>
+  <a href="#github-activity"><img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=ThanhDT127&layout=compact&theme=dark" alt="Top Languages" /></a>
 </p>
 
 > [!NOTE]
