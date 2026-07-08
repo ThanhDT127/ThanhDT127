@@ -33,13 +33,13 @@
 
 ## <a name="featured-projects"></a> 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Proof / Result |
+| Project | What it proves | Tech | Evidence |
 |---|---|---|---|
-| [`DATN_Classification`](https://github.com/ThanhDT127/DATN_Classification) | Aspect-based Sentiment Analysis for Vietnamese reviews. Crawled reviews (Tiki/Lazada), labeled using Groq API (DeepSeek LLaMA), and trained a multi-task PhoBERT + BiLSTM model. | `Python`, `PyTorch`, `PhoBERT`, `FastAPI` | F1-score > 90% / Deployed on HuggingFace Spaces |
-| [`dms-feedback-classification`](https://github.com/ThanhDT127/dms-feedback-classification) | Enterprise hybrid ML & Gemini feedback classifier. Automatically pulls files from SharePoint, matches using RAG, groups feedback into 21 categories, alerts via Teams/Email, and displays a Vanilla JS dashboard. | `Python`, `FastAPI`, `Docker`, `Gemini API` | 93% test coverage (pytest) / Live SharePoint sync |
-| [`CRM-Classification-Pipeline`](https://github.com/ThanhDT127/CRM-Classification-Pipeline) | Large-scale CRM data classification pipeline (>27k rows). Hybrid Classifier (Regex + Gemini 2.5 Flash) with Incremental Delta logic to save API costs. Outputs styled Premium Excel to SharePoint. | `Python`, `Gemini API`, `Graph API`, `pandas` | Incremental delta processing |
-| [`Oppen_Web_UI`](https://github.com/ThanhDT127/Oppen_Web_UI) | Internal Enterprise AI platform built with Docker Compose. Routing of 20+ models via LiteLLM proxy, self-hosted SearXNG search, and Docling OCR integration for RAG. | `Docker`, `LiteLLM`, `SearXNG`, `Nginx` | Supports 200+ employees |
-| [`Obesity-Level-Prediction-Using-Machine-Learning`](https://github.com/ThanhDT127/Obesity-Level-Prediction-Using-Machine-Learning) | Obesity classification comparing custom "from scratch" implementations of MLP, Naive Bayes, and One-vs-One SVM against standard scikit-learn pipelines. | `Python`, `scikit-learn`, `PyTorch` | Scratch ML implementations comparison |
+| [`DATN_Classification`](https://github.com/ThanhDT127/DATN_Classification) | End-to-end multi-task deep learning system (PhoBERT + BiLSTM) for aspect & sentiment classification. Crawled reviews (Tiki/Lazada) and labeled using Groq API (DeepSeek LLaMA). | `Python`, `PyTorch`, `PhoBERT`, `FastAPI` | F1-score > 90% / Deployed on HuggingFace Spaces / Crawlers |
+| [`dms-feedback-classification`](https://github.com/ThanhDT127/dms-feedback-classification) | Enterprise-grade ML/LLM classifier with SharePoint synchronization, Teams/Email alerting pipelines, and dynamic SPA dashboard. | `Python`, `FastAPI`, `Docker`, `Gemini API` | [93% PyTest Coverage](https://github.com/ThanhDT127/dms-feedback-classification/actions) / SPA Dashboard |
+| [`CRM-Classification-Pipeline`](https://github.com/ThanhDT127/CRM-Classification-Pipeline) | Large-scale data ingestion and cost-optimized classification (>27k rows) utilizing incremental delta checking (ActivityId tracking). | `Python`, `Gemini API`, `Graph API`, `pandas` | Incremental Delta Cache / Graph API / Premium Excel |
+| [`Oppen_Web_UI`](https://github.com/ThanhDT127/Oppen_Web_UI) | Multi-container system deployment, LLM routing proxy (20+ models via LiteLLM), self-hosted SearXNG search, and Nginx SSL/HTTPS security. | `Docker`, `LiteLLM`, `SearXNG`, `Nginx` | Custom Open WebUI Stack / SearXNG Integration |
+| [`Obesity-Level-Prediction-Using-Machine-Learning`](https://github.com/ThanhDT127/Obesity-Level-Prediction-Using-Machine-Learning) | Deeper understanding of ML mathematical algorithms via custom "from scratch" implementations of MLP, Naive Bayes, and SVM. | `Python`, `scikit-learn`, `PyTorch` | MLP & SVM custom scratch algorithms |
 
 ---
 
